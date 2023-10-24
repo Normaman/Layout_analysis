@@ -1,0 +1,10 @@
+path: E:/dataset
+train: images/train
+val: images/val
+test: #
+
+names:
+  0: Text
+  1: Figure
+  2: Equation
+  3: Table
